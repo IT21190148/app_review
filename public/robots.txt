@@ -1,3 +1,7 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
+<<<<<<< HEAD
 Disallow:
+=======
+
+>>>>>>> ede671f (frontend some changes added)
